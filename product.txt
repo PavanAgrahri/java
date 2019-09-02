@@ -2,3 +2,4 @@ mouse
 loaptop
 tv
 kyebord
+charger
